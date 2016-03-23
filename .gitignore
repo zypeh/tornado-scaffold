@@ -1,0 +1,10 @@
+# Ignore the python compiled bytecode
+*.pyc
+
+
+# Ignore DS Store
+.DS_Store
+
+
+# I'm using Emacs
+*~
